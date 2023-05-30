@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hardcod3dd
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and data analysis/science
 - 📫 How to reach me linkedin@dogukanucak
 
      ![Visitor Count](https://profile-counter.glitch.me/hardcod3dd/count.svg)
